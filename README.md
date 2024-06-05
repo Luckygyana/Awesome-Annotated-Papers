@@ -10,3 +10,4 @@ Below is the log of papers I've read along with their annotations:
 - **[04-05-24]:** [NICE: Non-linear Independent Components Estimation](https://www.arxiv.org/abs/1410.8516) ([Annotated Paper](/papers/NICE-%20NON-LINEAR%20INDEPENDENT%20COMPONENTS%20ESTIMATION[Y%20Bengio].pdf))
 - **[04-05-24]:** [A Survey on RAG Meets LLMs: Towards Retrieval-Augmented
 Large Language Models](https://www.arxiv.org/abs/2405.06211v1) ([Annotated Paper](/papers/A%20Survey%20on%20RAG%20Meets%20LLMs-%20Towards%20Retrieval-Augmented%20Large%20Language%20Models.pdf))
+- **[05-05-24]:** [Parameter-Efficient Fine-Tuning for Large Models: A Comprehensive Survey](https://www.arxiv.org/abs/2403.14608) ([Annotated Paper](/papers/Parameter-Efficient%20Fine-Tuning%20for%20Large%20Models-%20A%20Comprehensive%20Survey.pdf))
